@@ -35,7 +35,7 @@ themeColor: grey # green, blue, orange, purple, grey
 fixedNav: 'true' # true or false
 
 permalink: /:year/:month/:title
-markdown: kramdyown
+markdown: kramdown
 include: [_pages]
 exclude: [_site, CHANGELOG.md, LICENSE, README.md]
 sass:
